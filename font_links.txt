@@ -1,0 +1,9 @@
+Paperlogy-1Thin: https://github.com/thebodaai/fonts/raw/refs/heads/main/Paperlogy-1.000/Paperlogy-1Thin.ttf 
+Paperlogy-2ExtraLight: https://github.com/thebodaai/fonts/raw/refs/heads/main/Paperlogy-1.000/Paperlogy-2ExtraLight.ttf
+Paperlogy-3Light: https://github.com/thebodaai/fonts/raw/refs/heads/main/Paperlogy-1.000/Paperlogy-3Light.ttf
+Paperlogy-4Regular: https://github.com/thebodaai/fonts/raw/refs/heads/main/Paperlogy-1.000/Paperlogy-4Regular.ttf
+Paperlogy-5Medium: https://github.com/thebodaai/fonts/raw/refs/heads/main/Paperlogy-1.000/Paperlogy-5Medium.ttf
+Paperlogy-6SemiBold: https://github.com/thebodaai/fonts/raw/refs/heads/main/Paperlogy-1.000/Paperlogy-6SemiBold.ttf
+Paperlogy-7Bold: https://github.com/thebodaai/fonts/raw/refs/heads/main/Paperlogy-1.000/Paperlogy-7Bold.ttf
+Paperlogy-8ExtraBold: https://github.com/thebodaai/fonts/raw/refs/heads/main/Paperlogy-1.000/Paperlogy-8ExtraBold.ttf
+Paperlogy-9Black: https://github.com/thebodaai/fonts/raw/refs/heads/main/Paperlogy-1.000/Paperlogy-9Black.ttf

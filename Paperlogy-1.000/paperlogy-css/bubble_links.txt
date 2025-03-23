@@ -1,0 +1,19 @@
+Paperlogy-1Thin.css:        https://b7204a9d57e15ae65aec3e8d85910534.cdn.bubble.io/f1742712970567x689780972117320100/Paperlogy-1Thin.css
+
+Paperlogy-2ExtraLight.css:  https://b7204a9d57e15ae65aec3e8d85910534.cdn.bubble.io/f1742712996022x557708593111487760/Paperlogy-2ExtraLight.css
+
+Paperlogy-3Light.css:       https://b7204a9d57e15ae65aec3e8d85910534.cdn.bubble.io/f1742713004069x559615351590364800/Paperlogy-3Light.css
+
+Paperlogy-4Regular.css:     https://b7204a9d57e15ae65aec3e8d85910534.cdn.bubble.io/f1742713012269x981547402004907300/Paperlogy-4Regular.css
+
+Paperlogy-5Medium.css:      https://b7204a9d57e15ae65aec3e8d85910534.cdn.bubble.io/f1742713022639x866016404305155500/Paperlogy-5Medium.css
+
+Paperlogy-6SemiBold.css:    https://b7204a9d57e15ae65aec3e8d85910534.cdn.bubble.io/f1742713030687x174099051659628580/Paperlogy-6SemiBold.css
+
+Paperlogy-7Bold.css:        https://b7204a9d57e15ae65aec3e8d85910534.cdn.bubble.io/f1742713038539x412910748225727940/Paperlogy-7Bold.css
+
+Paperlogy-8ExtraBold.css:   https://b7204a9d57e15ae65aec3e8d85910534.cdn.bubble.io/f1742713345715x869598893921494700/Paperlogy-8ExtraBold.css
+
+Paperlogy-9Black.css:       https://b7204a9d57e15ae65aec3e8d85910534.cdn.bubble.io/f1742713362207x400298124565198400/Paperlogy-9Black.css
+
+
